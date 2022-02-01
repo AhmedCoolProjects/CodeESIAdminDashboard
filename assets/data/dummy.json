@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Persons",
+    "link": "/myapi/v1/admin/persons",
+    "icon": "",
+    "description": "Manage persons"
+  },
+  {
+    "title": "Organizations",
+    "link": "/myapi/v1/admin/organizations",
+    "icon": "",
+    "description": "Manage organizations"
+  },
+  {
+    "title": "Activities",
+    "link": "/myapi/v1/admin/activities",
+    "icon": "",
+    "description": "Manage activities"
+  }
+]
